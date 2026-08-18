@@ -58,13 +58,6 @@ The system prompt uses a fact allowlist, so the agent only states the supplied l
 - OpenAI Responses API via the official Python SDK for conversational generation.
 - The system prompt and safety rules are included in this repository for review.
 
-## Demo video and submission
 
-Record a 2–3 minute Loom/Drive/unlisted YouTube walkthrough showing a normal conversation, a booking failure, the prompt, and the analytics. Add its public link below before emailing the assignment.
 
-```text
-Repository: <public GitHub URL>
-Demo video: <public video URL>
-```
 
-Suggested email recipients: `aditi@huvo.ai` (To); `nikhil@huvo.ai`, `vaibhav@huvo.ai`, and `rohit@huvo.ai` (CC).
